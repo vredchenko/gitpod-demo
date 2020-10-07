@@ -3,6 +3,10 @@
     <div>
       <Logo />
       <h1 class="title">gitpod-demo</h1>
+      <p>
+        simulating a set of codebase revisions <em>"bar"</em>
+        from branch <em>revision-set-bar-demo</em>
+      </p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
